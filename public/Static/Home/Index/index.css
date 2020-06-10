@@ -1,0 +1,45 @@
+
+
+			
+
+			.user{
+				padding:20px;
+			}
+
+			.user a{
+				float:none;
+			}
+			.shop{
+				width:85%;
+				height:100px;
+				padding:20px;
+				padding-top:10px;
+				position:relative;
+			}
+			.shop c{
+				font-size:20px;
+				font-weight:bold;
+
+			}
+			.shop a{
+				color:black;
+			}
+
+			.xinxi{
+				position:absolute;
+				left:30px;
+			}
+			.dianhua{
+				position:absolute;
+				left:350px;
+			}
+			.dizhi{
+				position:absolute;
+				top:70px;
+				left:30px;
+			}
+			.renyuan{
+				position:absolute;
+				top:70px;
+				left:350px;
+			}

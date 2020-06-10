@@ -1,0 +1,8 @@
+	.tou-anniu a:nth-child(1){
+		background:#ccc;
+		color:black;
+	}
+	.tou-anniu a:nth-child(2){
+		background:white;
+		color:blue;
+	}
